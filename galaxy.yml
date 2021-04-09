@@ -6,7 +6,7 @@ readme: README.md
 authors:
 - Will Tome (@wtome)
 description: Ansible Collection for Red Hat insights
-repository: {{ collection_repo }}
+repository: https://github.com/wenottingham/ansible-collection-insights.git
 build_ignore:
 - galaxy.yml.j2
 - release.yml
